@@ -1,13 +1,15 @@
 import styles from "./styles"
 import { Navbar,Hero,
   Stats,
-  Bussiness,
+ 
   Billing,
   CardDeal,
   Testimonials,
   Clients,
   CTA,
   Footer } from "./components"
+
+import Bussiness from "./components/Business"
 
 
 function App() {
