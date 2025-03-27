@@ -38,9 +38,7 @@ const Hero = () => {
         <div className='absolute z-0 w-[40%] h-[40%] top-0 right-10 pink__gradient'></div>
         <div className='absolute z-1 w-[80%] h-[80%] rounded-full white__gradient'></div>
         <div className='absolute z-0 w-[60%] h-[50%] right-10 bottom-20 pink__gradient'></div>
-        <div className='ss:flex  md:ml-4 mr-0 md:flex-1'>
-              <GetStarted/>
-            </div>
+    
       </section>
   )
 }
